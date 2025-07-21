@@ -2,7 +2,8 @@
 
 **SAWA** is an AI-powered web platform that enables seamless real-time communication between people speaking different languages. It integrates advanced speech-to-text, translation, and text-to-speech technologies to provide real-time audio dubbing and multilingual chat within virtual meetings.
 
-![SAWA Banner]([https://your-poster-link-or-banner-image-if-hosted](https://docs.google.com/presentation/d/1VAENJq-BjQESXTYUiCrM1vkSdQ-l5fBD/edit?usp=sharing&ouid=102473138781845686455&rtpof=true&sd=true))
+SAWA Poster
+https://your-poster-link-or-banner-image-if-hosted](https://docs.google.com/presentation/d/1VAENJq-BjQESXTYUiCrM1vkSdQ-l5fBD/edit?usp=sharing&ouid=102473138781845686455&rtpof=true&sd=true
 
 ---
 
